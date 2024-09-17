@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import { StoreContext } from '../../Context/StoreContext'
+import { StoreContext } from '../../context/StoreContext'
 import { assets } from '../../assets/assets';
 import axios from "axios";
 import './MyOrders.css'
