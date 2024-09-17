@@ -3,7 +3,7 @@ import { assets } from "../../assets/assets";
 import './LoginPopup.css';
 
 import axios from 'axios'
-import { StoreContext } from "../../Context/StoreContext";
+import { StoreContext } from "../../context/StoreContext";
 
 function LoginPopup({setShowLogin}){
 
